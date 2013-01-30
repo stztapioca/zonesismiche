@@ -6,8 +6,8 @@
    <title>Zone Sismiche provincia di Roma</title>
    <link rel="stylesheet" href="css/style.css">
    <link rel="stylesheet" href="css/jquery-ui.css">
-    <script src="../js/jquery-1.8.3.min.js"></script>
-	<script src="../js/jquery-ui.js"></script>
+    <script src="js/jquery-1.8.3.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
 <script>
  $(document).ready(function(){
 
