@@ -1,0 +1,792 @@
+{
+  "id" : "xumi-cac8",
+  "name" : "Associazioni Senza Scopo Di Lucro Iscritte Nel Registro Regionale",
+  "attribution" : "Regione Lombardia",
+  "attributionLink" : "http://www.famiglia.regione.lombardia.it/cs/Satellite?c=Redazionale_P&childpagename=DG_Famiglia%2FDetail&cid=1213287856372&packedargs=NoSlotForSitePlan%3Dtrue%26menu-to-render%3D1213276893478&pagename=DG_FAMWrapper",
+  "averageRating" : 0,
+  "category" : "Famiglia",
+  "createdAt" : 1334583215,
+  "description" : "Elenco Associazioni senza scopo di lucro iscritte nel registro regionale dell'associazionismo 2010",
+  "displayType" : "table",
+  "downloadCount" : 15,
+  "licenseId" : "IODL",
+  "numberOfComments" : 0,
+  "oid" : 602982,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1334583466,
+  "publicationGroup" : 319013,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1334583219,
+  "rowsUpdatedBy" : "7pvs-5xuu",
+  "signed" : false,
+  "tableId" : 319013,
+  "totalTimesRated" : 0,
+  "viewCount" : 263,
+  "viewLastModified" : 1337805477,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 7885959,
+    "name" : "N. iscr.",
+    "dataTypeName" : "text",
+    "fieldName" : "n_iscr",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568766,
+    "width" : 70,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "BG - 1",
+      "null" : 0,
+      "largest" : "VA - 90",
+      "top" : [ {
+        "count" : 20,
+        "item" : "VA - 42"
+      }, {
+        "count" : 19,
+        "item" : "VA - 15"
+      }, {
+        "count" : 18,
+        "item" : "VA - 31"
+      }, {
+        "count" : 17,
+        "item" : "VA - 21"
+      }, {
+        "count" : 16,
+        "item" : "VA - 65"
+      }, {
+        "count" : 15,
+        "item" : "VA - 53"
+      }, {
+        "count" : 14,
+        "item" : "VA - 45"
+      }, {
+        "count" : 13,
+        "item" : "VA - 51"
+      }, {
+        "count" : 12,
+        "item" : "VA - 55"
+      }, {
+        "count" : 11,
+        "item" : "VA - 50"
+      }, {
+        "count" : 10,
+        "item" : "VA - 90"
+      }, {
+        "count" : 9,
+        "item" : "VA - 52"
+      }, {
+        "count" : 8,
+        "item" : "VA - 7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885960,
+    "name" : "Sezione",
+    "dataTypeName" : "text",
+    "fieldName" : "sezione",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568767,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "A - Sociale/Civile ",
+      "null" : 0,
+      "largest" : "E - Sport/Tempo libero e innovazione tecnologica ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "D - Relazioni internazionali "
+      }, {
+        "count" : 19,
+        "item" : "A - Sociale/Civile "
+      }, {
+        "count" : 18,
+        "item" : "E - Sport/Tempo libero e innovazione tecnologica "
+      }, {
+        "count" : 17,
+        "item" : "B - Culturale "
+      }, {
+        "count" : 16,
+        "item" : "C - Ambientale "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885961,
+    "name" : "Cod. Fisc. ente",
+    "dataTypeName" : "text",
+    "fieldName" : "cod_fisc_ente",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568768,
+    "width" : 92,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "00605470145",
+      "null" : 0,
+      "largest" : "98124350178",
+      "top" : [ {
+        "count" : 20,
+        "item" : "95034990127"
+      }, {
+        "count" : 19,
+        "item" : "95030700124"
+      }, {
+        "count" : 18,
+        "item" : "95009910126"
+      }, {
+        "count" : 17,
+        "item" : "95043600121"
+      }, {
+        "count" : 16,
+        "item" : "95051300127"
+      }, {
+        "count" : 15,
+        "item" : "02722820129"
+      }, {
+        "count" : 14,
+        "item" : "95048900120"
+      }, {
+        "count" : 13,
+        "item" : "95050670124"
+      }, {
+        "count" : 12,
+        "item" : "02783500123"
+      }, {
+        "count" : 11,
+        "item" : "92005310120"
+      }, {
+        "count" : 10,
+        "item" : "95052080124"
+      }, {
+        "count" : 9,
+        "item" : "02455400123"
+      }, {
+        "count" : 8,
+        "item" : "95016070120"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885962,
+    "name" : "Associazione",
+    "dataTypeName" : "text",
+    "fieldName" : "associazione",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568769,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "A.B.M.B. - ASSOCIAZIONE BANDE MUSICALI BRESCIANE",
+      "null" : 0,
+      "largest" : "VIVICITTA' CIRCOLO UISP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "C.A.T.- CENTRO ATTIVITA' TEMPO LIBERO - SEZIONE PATTINI A ROTELLE SU STRADA"
+      }, {
+        "count" : 19,
+        "item" : "ARTI & MESTIERI"
+      }, {
+        "count" : 18,
+        "item" : "CIRCOLO E.N.D.A.S. SEVERO PIATTI"
+      }, {
+        "count" : 17,
+        "item" : "CORO A.N.A. \"CAMPO DEI FIORI\""
+      }, {
+        "count" : 16,
+        "item" : "ISTITUTO DI MEDIAZIONE FAMILIARE E COMUNITARIA DI VARESE"
+      }, {
+        "count" : 15,
+        "item" : "ITALIA ONLUS"
+      }, {
+        "count" : 14,
+        "item" : "LA FAMIGLIA: UN'AVVENTURA"
+      }, {
+        "count" : 13,
+        "item" : "NOI GENITORI - ASSOCIAZIONE GENITORI DELLE SCUOLE MEDIE PELLICO-RIGHI"
+      }, {
+        "count" : 12,
+        "item" : "PROGETTO ZATTERA"
+      }, {
+        "count" : 11,
+        "item" : "USCI - UNIONE SOCIETA' CORALI ITALIANE DELEGAZIONE PROVINCIALE DI VARESE"
+      }, {
+        "count" : 10,
+        "item" : "ASSOCIAZIONE GENITORI \"SILVIO PELLICO\""
+      }, {
+        "count" : 9,
+        "item" : "CENTRO RIEDUCAZIONE EQUESTRE L'ARCA DEL SEPRIO - ONLUS"
+      }, {
+        "count" : 8,
+        "item" : "CENTRO SOCIALE VILLA SPECH"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885963,
+    "name" : "Indirizzo",
+    "dataTypeName" : "text",
+    "fieldName" : "indirizzo",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568770,
+    "width" : 140,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "* BORGO PIETRO WUHER 119",
+      "null" : 0,
+      "largest" : "VICOLO MANZONE 7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "VIA ROMA "
+      }, {
+        "count" : 19,
+        "item" : "PIAZZA SANT'EVASIO 8"
+      }, {
+        "count" : 18,
+        "item" : "VIA ORIANI 121"
+      }, {
+        "count" : 17,
+        "item" : "VIA DEGLI ALPINI 1"
+      }, {
+        "count" : 16,
+        "item" : "VIA CAIROLI 5"
+      }, {
+        "count" : 15,
+        "item" : "VIA MERINI 22"
+      }, {
+        "count" : 14,
+        "item" : "VIA PODGORA 3"
+      }, {
+        "count" : 13,
+        "item" : "VIA APPIANI 15"
+      }, {
+        "count" : 12,
+        "item" : "VIA DE CRISTOFORIS 5"
+      }, {
+        "count" : 11,
+        "item" : "VIA BRAMBILLA 15"
+      }, {
+        "count" : 10,
+        "item" : "PIAZZA DEL POPOLO 4"
+      }, {
+        "count" : 9,
+        "item" : "VIA ANDREA DORIA 32"
+      }, {
+        "count" : 8,
+        "item" : "VIA DEI MARTIRI 9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885964,
+    "name" : "CAP",
+    "dataTypeName" : "text",
+    "fieldName" : "cap",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568771,
+    "width" : 68,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "00196",
+      "null" : 0,
+      "largest" : " FORMIGOSA 2/B",
+      "top" : [ {
+        "count" : 20,
+        "item" : "22100"
+      }, {
+        "count" : 19,
+        "item" : "23900"
+      }, {
+        "count" : 18,
+        "item" : "26900"
+      }, {
+        "count" : 17,
+        "item" : "20122"
+      }, {
+        "count" : 16,
+        "item" : "20121"
+      }, {
+        "count" : 15,
+        "item" : "20135"
+      }, {
+        "count" : 14,
+        "item" : "20127"
+      }, {
+        "count" : 13,
+        "item" : "20123"
+      }, {
+        "count" : 12,
+        "item" : "20090"
+      }, {
+        "count" : 11,
+        "item" : "20099"
+      }, {
+        "count" : 10,
+        "item" : "46010"
+      }, {
+        "count" : 9,
+        "item" : "46100"
+      }, {
+        "count" : 8,
+        "item" : "27045"
+      }, {
+        "count" : 7,
+        "item" : "27036"
+      }, {
+        "count" : 6,
+        "item" : "27100"
+      }, {
+        "count" : 5,
+        "item" : "27058"
+      }, {
+        "count" : 4,
+        "item" : "23100"
+      }, {
+        "count" : 3,
+        "item" : "23037"
+      }, {
+        "count" : 2,
+        "item" : "23020"
+      }, {
+        "count" : 1,
+        "item" : "21050"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885965,
+    "name" : "Comune",
+    "dataTypeName" : "text",
+    "fieldName" : "comune",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568772,
+    "width" : 110,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "46100",
+      "null" : 0,
+      "largest" : "ZOGNO",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BERGAMO"
+      }, {
+        "count" : 19,
+        "item" : "MILANO"
+      }, {
+        "count" : 18,
+        "item" : "BRESCIA"
+      }, {
+        "count" : 17,
+        "item" : "COMO"
+      }, {
+        "count" : 16,
+        "item" : "CREMONA"
+      }, {
+        "count" : 15,
+        "item" : "LECCO"
+      }, {
+        "count" : 14,
+        "item" : "LODI"
+      }, {
+        "count" : 13,
+        "item" : "MONZA"
+      }, {
+        "count" : 12,
+        "item" : "LEGNANO"
+      }, {
+        "count" : 11,
+        "item" : "SESTO SAN GIOVANNI"
+      }, {
+        "count" : 10,
+        "item" : "MANTOVA"
+      }, {
+        "count" : 9,
+        "item" : "CASTEGGIO"
+      }, {
+        "count" : 8,
+        "item" : "MORTARA"
+      }, {
+        "count" : 7,
+        "item" : "PAVIA"
+      }, {
+        "count" : 6,
+        "item" : "VOGHERA"
+      }, {
+        "count" : 5,
+        "item" : "SONDRIO"
+      }, {
+        "count" : 4,
+        "item" : "TIRANO"
+      }, {
+        "count" : 3,
+        "item" : "TRESIVIO"
+      }, {
+        "count" : 2,
+        "item" : "BISUSCHIO"
+      }, {
+        "count" : 1,
+        "item" : "BUSTO ARSIZIO"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885966,
+    "name" : "Prov.",
+    "dataTypeName" : "text",
+    "fieldName" : "prov",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568773,
+    "width" : 75,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "BG",
+      "null" : 0,
+      "largest" : "VA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BG"
+      }, {
+        "count" : 19,
+        "item" : "LC"
+      }, {
+        "count" : 18,
+        "item" : "MB"
+      }, {
+        "count" : 17,
+        "item" : "MI"
+      }, {
+        "count" : 16,
+        "item" : "PV"
+      }, {
+        "count" : 15,
+        "item" : "VA"
+      }, {
+        "count" : 14,
+        "item" : "RM"
+      }, {
+        "count" : 13,
+        "item" : "BS"
+      }, {
+        "count" : 12,
+        "item" : "CO"
+      }, {
+        "count" : 11,
+        "item" : "CR"
+      }, {
+        "count" : 10,
+        "item" : "LO"
+      }, {
+        "count" : 9,
+        "item" : "MN"
+      }, {
+        "count" : 8,
+        "item" : "MANTOVA"
+      }, {
+        "count" : 7,
+        "item" : "SO"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885967,
+    "name" : "Atto iscr.",
+    "dataTypeName" : "text",
+    "fieldName" : "atto_iscr",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568774,
+    "width" : 85,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "01",
+      "null" : 0,
+      "largest" : "MN",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2794"
+      }, {
+        "count" : 19,
+        "item" : "01"
+      }, {
+        "count" : 18,
+        "item" : "319"
+      }, {
+        "count" : 17,
+        "item" : "76"
+      }, {
+        "count" : 16,
+        "item" : "5207"
+      }, {
+        "count" : 15,
+        "item" : "4364"
+      }, {
+        "count" : 14,
+        "item" : "5105"
+      }, {
+        "count" : 13,
+        "item" : "1899"
+      }, {
+        "count" : 12,
+        "item" : "4950"
+      }, {
+        "count" : 11,
+        "item" : "1849"
+      }, {
+        "count" : 10,
+        "item" : "2818"
+      }, {
+        "count" : 9,
+        "item" : "3565"
+      }, {
+        "count" : 8,
+        "item" : "9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885968,
+    "name" : "Data iscr.",
+    "dataTypeName" : "text",
+    "fieldName" : "data_iscr",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568775,
+    "width" : 94,
+    "cachedContents" : {
+      "non_null" : 792,
+      "smallest" : "01/03/2004",
+      "null" : 0,
+      "largest" : "31/08/2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "20/10/2004"
+      }, {
+        "count" : 19,
+        "item" : "11/06/2002"
+      }, {
+        "count" : 18,
+        "item" : "11/03/2002"
+      }, {
+        "count" : 17,
+        "item" : "15/02/2000"
+      }, {
+        "count" : 16,
+        "item" : "20/05/2003"
+      }, {
+        "count" : 15,
+        "item" : "26/11/2003"
+      }, {
+        "count" : 14,
+        "item" : "15/05/2003"
+      }, {
+        "count" : 13,
+        "item" : "25/06/2008"
+      }, {
+        "count" : 12,
+        "item" : "28/08/2003"
+      }, {
+        "count" : 11,
+        "item" : "26/04/1999"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885969,
+    "name" : "N. iscr.succ",
+    "dataTypeName" : "text",
+    "fieldName" : "n_iscr_succ",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568776,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "MI - 341",
+      "null" : 786,
+      "largest" : "RL - 71",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RL - 29"
+      }, {
+        "count" : 19,
+        "item" : "RL - 67"
+      }, {
+        "count" : 18,
+        "item" : "RL - 71"
+      }, {
+        "count" : 17,
+        "item" : "RL - 57"
+      }, {
+        "count" : 16,
+        "item" : "RL - 56"
+      }, {
+        "count" : 15,
+        "item" : "MI - 341"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885970,
+    "name" : "Atto iscr. succ",
+    "dataTypeName" : "text",
+    "fieldName" : "atto_iscr_succ",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568777,
+    "width" : 66,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "10996",
+      "null" : 786,
+      "largest" : "6059",
+      "top" : [ {
+        "count" : 20,
+        "item" : "18243"
+      }, {
+        "count" : 19,
+        "item" : "6059"
+      }, {
+        "count" : 18,
+        "item" : "2474"
+      }, {
+        "count" : 17,
+        "item" : "10996"
+      }, {
+        "count" : 16,
+        "item" : "10997"
+      }, {
+        "count" : 15,
+        "item" : "371"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7885971,
+    "name" : "Data iscr.succ",
+    "dataTypeName" : "text",
+    "fieldName" : "data_iscr_succ",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2568778,
+    "width" : 106,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "04/02/2009",
+      "null" : 786,
+      "largest" : "31/10/2003",
+      "top" : [ {
+        "count" : 20,
+        "item" : "31/10/2003"
+      }, {
+        "count" : 19,
+        "item" : "17/06/2009"
+      }, {
+        "count" : 18,
+        "item" : "16/03/2010"
+      }, {
+        "count" : 17,
+        "item" : "05/10/2006"
+      }, {
+        "count" : 16,
+        "item" : "04/02/2009"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Italian Open Data License 2.0",
+    "logoUrl" : "images/licenses/iodl.png",
+    "termsLink" : "http://www.dati.gov.it/iodl/2.0/"
+  },
+  "metadata" : {
+    "custom_fields" : {
+      "Frequenza di aggiornamento" : {
+        "Frequenza" : "",
+        "Data ultima modifica" : "31/12/2010"
+      },
+      "Catalog" : {
+        "Dataset Page" : "/famiglia/associazioni-senza-scopo-di-lucro-iscritte-nel-registro-regionale"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "includeAuto" : 13,
+          "tableColumnId" : {
+            "319013" : 2568773
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "7pvs-5xuu",
+    "displayName" : "Regione Lombardia",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/1466/7193/MANUALE-GUIDELINES-FORMAT-CON-BANDA-TRASPARENTE---9-APRILE_DEF_large.png",
+    "profileImageUrlMedium" : "/images/profile/1466/7193/MANUALE-GUIDELINES-FORMAT-CON-BANDA-TRASPARENTE---9-APRILE_DEF_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/1466/7193/MANUALE-GUIDELINES-FORMAT-CON-BANDA-TRASPARENTE---9-APRILE_DEF_tiny.png",
+    "profileLastModified" : 1336977905,
+    "roleName" : "administrator",
+    "screenName" : "Regione Lombardia",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7pvs-5xuu",
+    "displayName" : "Regione Lombardia",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/1466/7193/MANUALE-GUIDELINES-FORMAT-CON-BANDA-TRASPARENTE---9-APRILE_DEF_large.png",
+    "profileImageUrlMedium" : "/images/profile/1466/7193/MANUALE-GUIDELINES-FORMAT-CON-BANDA-TRASPARENTE---9-APRILE_DEF_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/1466/7193/MANUALE-GUIDELINES-FORMAT-CON-BANDA-TRASPARENTE---9-APRILE_DEF_tiny.png",
+    "profileLastModified" : 1336977905,
+    "roleName" : "administrator",
+    "screenName" : "Regione Lombardia",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages" ]
+  },
+  "tags" : [ "associazioni" ],
+  "flags" : [ "default" ]
+}

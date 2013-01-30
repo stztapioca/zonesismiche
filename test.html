@@ -1,0 +1,48 @@
+
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="utf-8">
+   <title>jQuery demo</title>
+   <link rel="stylesheet" href="css/jquery-ui.css">
+    <script src="../js/jquery-1.8.3.min.js"></script>
+	<script src="../js/jquery-ui.js"></script>
+<script>
+ $(document).ready(function(){
+
+     
+ $.ajax({
+type: "GET",
+url: "xml.php?comune=Affile",
+success: function(response){
+$("#output").html(response);
+}
+});
+ $("#comune").change(function() {
+alert('Handler for .change() called.');
+});
+$("#text").load("sel_comuni.php");
+ $("button").click(function(){
+    $("#comune").hide();
+  });
+});
+ 
+
+</script>
+
+ <style>
+ 
+  #output { background: grey; color: black; width:200px; font-size:14px; font-family:"Arial" }
+  </style>
+
+ </head>
+ <body> 
+  <div ID='text'>
+  
+  </div> 
+  <div ID='output'>
+  comune
+  </div> 
+   <button>Click me</button> 
+ </body>
+ </html>
